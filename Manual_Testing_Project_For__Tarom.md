@@ -117,7 +117,10 @@ To ensure successful testing, it's important that the environment is ready. This
 
 Test cases are executed on the created test Cycle summary: TAROM_VERSION_1
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: ![alt text](image-11.png)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/3887e7f2-cbd5-45bb-8349-2a1eed74a17c)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/46a8a9fe-be59-4408-a606-b12134cd89fe)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/bb55932b-55ed-4f52-a026-281dbc135872)
+
 
 The following is a summary of the bugs that have been found
 (image-11.png)
