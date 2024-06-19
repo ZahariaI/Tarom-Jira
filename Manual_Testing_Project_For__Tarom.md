@@ -130,11 +130,11 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here:(https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level)
+The traceability matrix was generated and can be found here:
+https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 
 Test execution chart was generated and can be found below. 
-
-![alt text](image-12.png)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/becd010a-5b69-4420-90ab-36bbfc8c6580)
 
 The final report shows that a number 14 tests have failed of a total of 1
 
