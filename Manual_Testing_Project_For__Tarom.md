@@ -98,7 +98,8 @@ The testing process will be executed based on the application requirements. <b>(
 The following test conditions were found: <br>
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8e848e0f-3ae2-4883-b682-b55058797399)
 issuekey
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/e0c72d59-2ca2-4faf-8469-8cea045a38ae)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/c33bb712-4174-441d-98ad-23e2b73dd174)
+
 
 
 
