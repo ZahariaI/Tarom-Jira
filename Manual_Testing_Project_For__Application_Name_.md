@@ -14,7 +14,8 @@ The below stories was created in Jira and describes the functional specification
 
 Here you can find the release that was created for this project:
 
-![alt text](image.png) ![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image-3.png)
+ ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/e20e66a5-32d0-41d5-9f72-8d99e53392e2)
+![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image-3.png)
 <h2>Testing process</h2>
 
 The test process was performed based on the standard test process as described below.
