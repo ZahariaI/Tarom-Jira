@@ -138,7 +138,7 @@ Test execution chart was generated and can be found below.
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8fdce5ae-1311-4d4e-9963-c2c016e02598)
 
 
-The final report shows that a number 14 tests have failed of a total of 1
+The final report shows that a number 14 tests have failed of a total of 1.
 
 A number of 3 total bugs were found, from which the priority is:0 are high and 3 are medium.
 
