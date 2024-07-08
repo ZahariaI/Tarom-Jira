@@ -135,7 +135,8 @@ The traceability matrix was generated and can be found here:
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 
 Test execution chart was generated and can be found below. 
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/becd010a-5b69-4420-90ab-36bbfc8c6580)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8fdce5ae-1311-4d4e-9963-c2c016e02598)
+
 
 The final report shows that a number 14 tests have failed of a total of 1
 
