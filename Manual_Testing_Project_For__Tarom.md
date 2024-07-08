@@ -8,13 +8,17 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below stories was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below stories was created in Jira and describes the functional specifications of the "check-in","passager information","reservation" module, for which the final project is performed upon.
 
 [text](<d:/Tarom Jira/Filter+for+IZT+board+(Jira).doc>)    https://itfclasses.atlassian.net/jira/software/c/projects/IZT/boards/400/backlog?issueType=10001&selectedIssue=IZT-18
 
 Here you can find the release that was created for this project:
 
-![alt text](image.png) ![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image-3.png)
+ ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/e20e66a5-32d0-41d5-9f72-8d99e53392e2)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8bad31c5-2506-4ee9-b74b-3eb833bbb0af) 
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/3b0b499b-f55e-49e1-b206-14ac21277c65)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/e5f5ca94-90af-4782-9346-4750cd7b6b42)
+
 <h2>Testing process</h2>
 
 The test process was performed based on the standard test process as described below.
@@ -92,12 +96,16 @@ https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__s
 The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
 
 The following test conditions were found: <br>
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8e848e0f-3ae2-4883-b682-b55058797399)
 
-![alt text](image-4.png) ![alt text](image-5.png) ![alt text](image-6.png) ![alt text](image-7.png)![alt text](image-8.png)![alt text](image-9.png)![alt text](image-10.png)
+
+
+
 
 <h3> 1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here[text](ZFJ-issue-export-06-03-2024-aced1dd7607-0001.pdf)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here
+https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__test-cases
 
 <h3>1.5 Test Implementation</h3>
 
@@ -109,7 +117,10 @@ To ensure successful testing, it's important that the environment is ready. This
 
 Test cases are executed on the created test Cycle summary: TAROM_VERSION_1
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: ![alt text](image-11.png)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/3887e7f2-cbd5-45bb-8349-2a1eed74a17c)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/46a8a9fe-be59-4408-a606-b12134cd89fe)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/bb55932b-55ed-4f52-a026-281dbc135872)
+
 
 The following is a summary of the bugs that have been found
 (image-11.png)
@@ -119,11 +130,11 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here:(https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level)
+The traceability matrix was generated and can be found here:
+https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 
 Test execution chart was generated and can be found below. 
-
-![alt text](image-12.png)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/becd010a-5b69-4420-90ab-36bbfc8c6580)
 
 The final report shows that a number 14 tests have failed of a total of 1
 
