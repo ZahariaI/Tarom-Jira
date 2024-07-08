@@ -96,6 +96,7 @@ https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__s
 The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
 
 The following test conditions were found: <br>
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/7f8c9a93-bf15-4b06-9726-af77775ced09)
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8e848e0f-3ae2-4883-b682-b55058797399)
 
 
