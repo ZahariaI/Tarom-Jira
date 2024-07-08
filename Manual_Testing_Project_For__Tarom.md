@@ -16,6 +16,8 @@ Here you can find the release that was created for this project:
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab55ad16-fbc1-498e-a59c-22c98154743c)
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab4bf208-cb2b-405a-a520-80f50a4b5d56)
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/7c719a6d-bc32-4376-a6b9-05a0cc252ebe)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/1fa84cde-671b-46da-a452-53074ed8554d)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/2ce570d3-44af-4f25-b34a-7bcfbde46b45)
 
 
 
