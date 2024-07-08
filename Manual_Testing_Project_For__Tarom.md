@@ -13,11 +13,11 @@ The below stories was created in Jira and describes the functional specification
 [text](<d:/Tarom Jira/Filter+for+IZT+board+(Jira).doc>)    https://itfclasses.atlassian.net/jira/software/c/projects/IZT/boards/400/backlog?issueType=10001&selectedIssue=IZT-18
 
 Here you can find the release that was created for this project:
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab55ad16-fbc1-498e-a59c-22c98154743c)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab4bf208-cb2b-405a-a520-80f50a4b5d56)
+![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/7c719a6d-bc32-4376-a6b9-05a0cc252ebe)
 
- ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/e20e66a5-32d0-41d5-9f72-8d99e53392e2)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8bad31c5-2506-4ee9-b74b-3eb833bbb0af) 
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/3b0b499b-f55e-49e1-b206-14ac21277c65)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/e5f5ca94-90af-4782-9346-4750cd7b6b42)
+
 
 <h2>Testing process</h2>
 
