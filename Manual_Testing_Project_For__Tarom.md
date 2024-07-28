@@ -36,15 +36,15 @@ The test plan that was created for this project can be found here
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-1) Business requirements are available and agreed, completed by the analyst 
+<li> Business requirements are available and agreed, completed by the analyst </li> 
 
-2) Roles and responsibilities established and agreed 
+<li> Roles and responsibilities established and agreed </li>
 
-3) Projects risks identified and mitigated  
+<li> Projects risks identified and mitigated </li> 
 
-4) Deadlines established 
+<li> Deadlines established </li>
 
-5) Objectives of testing established, communicated within the team 
+<li> Objectives of testing established, communicated within the team </li>
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
