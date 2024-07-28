@@ -9,8 +9,7 @@ Tools used: Jira, Zephyr Squad.
 <h2>Functional specifications:</h2>
 
 This story has been done  in Jira and describes the functional specifications of the "check-in","passengers information","reservation" module, for which the final project is performed upon.
-
-[text](<d:/Tarom Jira/Filter+for+IZT+board+(Jira).doc>)    https://itfclasses.atlassian.net/jira/software/c/projects/IZT/boards/400/backlog?issueType=10001&selectedIssue=IZT-18
+![image](https://github.com/user-attachments/assets/7329909a-d391-4c57-8d2f-8bc38becd794)
 
 Here you can find the release that was created for this project:
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab55ad16-fbc1-498e-a59c-22c98154743c)
