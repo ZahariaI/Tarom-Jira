@@ -12,13 +12,7 @@ This story has been done  in Jira and describes the functional specifications of
 ![image](https://github.com/user-attachments/assets/7329909a-d391-4c57-8d2f-8bc38becd794)
 
 Here you can find the release that was created for this project:
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab55ad16-fbc1-498e-a59c-22c98154743c)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/ab4bf208-cb2b-405a-a520-80f50a4b5d56)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/7c719a6d-bc32-4376-a6b9-05a0cc252ebe)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/1fa84cde-671b-46da-a452-53074ed8554d)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/2ce570d3-44af-4f25-b34a-7bcfbde46b45)
-
-
+![image](https://github.com/user-attachments/assets/fead660f-ffc7-4702-abd9-15b46bdd9650)
 
 <h2>Testing process</h2>
 
@@ -28,16 +22,16 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (https://onedrive.live.com/edit?id=EDAC4614722B6514!1448&resid=EDAC4614722B6514!1448&ithint=file%2cdocx&ct=1717437297526&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=850a4a34-d094-424c-a623-f8b578586976&wdo=2&cid=edac4614722b6514)
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
+The test plan that was created for this project can be found here
+(https://onedrive.live.com/edit?id=EDAC4614722B6514!1448&resid=EDAC4614722B6514!1448&ithint=file%2cdocx&ct=1717437297526&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=850a4a34-d094-424c-a623-f8b578586976&wdo=2&cid=edac4614722b6514)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
-
-
 <ul>
-  <li>Ionescu Elena</li> 
-  <li>Popescu Vasile</li>
-  <li>Grigorescu Larisa</li>
-  <li>Zaharia Ionica</li>
+  <li>Ionescu Elena - Team lead</li> 
+  <li>Popescu Vasile - QA</li>
+  <li>Grigorescu Larisa - QA</li>
+  <li>Zaharia Ionica - QA</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
