@@ -43,21 +43,15 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-1)Test environment up and running 
+1) Business requirements are available and agreed, completed by the analyst 
 
-2)Smoke testing passed 
+2) Roles and responsibilities established and agreed 
 
-3)Permissions available 
+3) Projects risks identified and mitigated  
 
-4)Business requirements are available and agreed, completed by the analyst 
+4) Deadlines established 
 
-5)Roles and responsibilities established and agreed 
-
-6)Projects risks identified and mitigated  
-
-7)Deadlines established 
-
-8)Objectives of testing established, communicated within the team 
+5) Objectives of testing established, communicated within the team 
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
@@ -94,8 +88,6 @@ We performed usability tests, positive tests, negative tests, interface tests,no
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__search-test-executions-project-level
 
-<h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
 
 The following test conditions were found: <br>
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/7f8c9a93-bf15-4b06-9726-af77775ced09)
