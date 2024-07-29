@@ -68,13 +68,17 @@ positive testing, and negative testing. Additionally, we will conduct non-functi
 
 <h5>Tests not in scope: </h5>
 
- Legal problems,Some features were not tested because they were not included in the software requirement specifications. These features include Trip Planning, My Booking, Information, Search button, and other information on the main page except for Passenger Information, Book, and Check-in. 
+ Legal problems,Some features will not be tested because they were not included in the software requirement specifications. These features include Trip Planning, My Booking, Information, Search button, and other information on the main page except for Passenger Information, Book, and Check-in. 
 
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
-Reputation of the company, poor services, defamation of the company by the competition financial losses
-
+Reputation of the company   - Due to the strikes and non-compliance with flight times faced by the Tarom company, passenger confidence 
+                              has dropped considerably and is affecting the sale of tickets;
+Currency risk               - The increase and change in the exchange rate. In all developed countries, promotional rates are used for 
+                              overflight services provided to national companies, for this reason the involvement of the Ministry of 
+                              Transport is required         
+Optimizing SkyTeam benefits - Associating or expanding the cooperation network with partners can bring more financial benefits
 
 <h5> Product risks: </h5>
 
