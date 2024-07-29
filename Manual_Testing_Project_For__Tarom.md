@@ -51,14 +51,21 @@ The test plan that was created for this project can be found here
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-  <li> Minimum 95% of all tests passed						
-  <li>  No critical defects opened								
-  <li> The objectives have been accomplished						
-  <li> The deadline has been reached							
-  <li> The budget has been reached								
-  <li>Test report summary 										
-  <li> All defects have been documented and communicated to stakeholders	
-  <li> Test updates passed 100% 
+  <li> Minimum 95% of all tests passed	</li>					
+ 
+  <li>  No critical defects opened</li>								
+  
+  <li> The objectives have been accomplished	</li>					
+ 
+  <li> The deadline has been reached</li>							
+ 
+  <li> The budget has been reached	</li>							
+  
+  <li>Test report summary</li> 										
+  
+  <li> All defects have been documented and communicated to stakeholders	</li>
+  
+  <li> Test updates passed 100%</li> 
 
 <h4> 1.1.4 Test scope</h4>
 
