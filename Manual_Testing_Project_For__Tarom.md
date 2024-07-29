@@ -38,7 +38,6 @@ The test plan that was created for this project can be found here
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
-
 <ul>
      <li>Business requirements are available and agreed, completed by the analyst</li> 
      <li>Roles and responsibilities established and agreed</li> 
@@ -49,7 +48,6 @@ The test plan that was created for this project can be found here
 <ul>
 
  <h4> 1.1.3 Exit criteria defined </h4>
-
 <ul>
      </li> Minimum 95% of all tests passed</li> 				
      </li> No critical defects opened</li> 								
@@ -61,7 +59,7 @@ The test plan that was created for this project can be found here
      </li>Test updates passed 100%</li>  
 <ul>
 
- <h4> 1.1.4 Test scope</h4>
+<h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
