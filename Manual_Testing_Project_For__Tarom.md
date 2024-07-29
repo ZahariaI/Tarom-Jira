@@ -116,9 +116,9 @@ To ensure successful testing, it's important that the environment is ready. This
 Test cases are executed on the created test Cycle summary: TAROM_VERSION_1
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/14a4508d-a60d-4855-9020-822851b64427)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/146ab92f-8f06-4a06-8cba-3eaf436c6998)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/cb4313c7-919b-414e-bbf1-9a60e3729afb)
+
+https://itfclasses.atlassian.net/jira/software/c/projects/IZT/issues/IZT-47?jql=project%20%3D%20%22IZT%22%20AND%20type%20%3D%20Bug%20ORDER%20BY%20created%20DESC
+
 
 The following is a summary of the bugs that have been found
 (image-11.png)
