@@ -39,22 +39,22 @@ The test plan that was created for this project can be found here
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-    <li> Business requirements are available and agreed, completed by the analyst 
-    <li> Roles and responsibilities established and agreed 
-    <li> Projects risks identified and mitigated 
-    <li> Deadlines established 
-    <li> Objectives of testing established, communicated within the team 
+     Business requirements are available and agreed, completed by the analyst 
+     Roles and responsibilities established and agreed 
+     Projects risks identified and mitigated 
+     Deadlines established 
+     Objectives of testing established, communicated within the team 
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-    <li >Minimum 95% of all tests passed				
-    <li> No critical defects opened								
-    <li> The objectives have been accomplished					
-    <li> The deadline has been reached							
-    <li> The budget has been reached						
-    <li> Test report summary 										
-    <li> All defects have been documented and communicated to stakeholders	
-    <li> Test updates passed 100% 
+     Minimum 95% of all tests passed				
+     No critical defects opened								
+     The objectives have been accomplished					
+     The deadline has been reached							
+     The budget has been reached						
+     Test report summary 										
+     All defects have been documented and communicated to stakeholders	
+     Test updates passed 100% 
 
 <h4> 1.1.4 Test scope</h4>
 
