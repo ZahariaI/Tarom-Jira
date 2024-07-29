@@ -9,9 +9,11 @@ Tools used: Jira, Zephyr Squad.
 <h2>Functional specifications:</h2>
 
 This story has been done  in Jira and describes the functional specifications of the "check-in","passengers information","reservation" module, for which the final project is performed upon.
+
 ![image](https://github.com/user-attachments/assets/7329909a-d391-4c57-8d2f-8bc38becd794)
 
 Here you can find the release that was created for this project:
+
 ![image](https://github.com/user-attachments/assets/fead660f-ffc7-4702-abd9-15b46bdd9650)
 
 <h2>Testing process</h2>
@@ -44,7 +46,7 @@ The test plan that was created for this project can be found here
      <li>Projects risks identified and mitigated</li> 
      <li>Deadlines established</li> 
      <li>Objectives of testing established</li> 
-     </li>Communicated within the team</li> 
+    </li>Communicated within the team</li> 
 <ul>
 
  <h4> 1.1.3 Exit criteria defined </h4>
