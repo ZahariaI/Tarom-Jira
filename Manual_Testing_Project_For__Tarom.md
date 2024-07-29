@@ -73,12 +73,14 @@ positive testing, and negative testing. Additionally, we will conduct non-functi
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
-Reputation of the company   - Due to the strikes and non-compliance with flight times faced by the Tarom company, passenger confidence 
+ <li>Reputation of the company   - Due to the strikes and non-compliance with flight times faced by the Tarom company, passenger confidence 
                               has dropped considerably and is affecting the sale of tickets;
-Currency risk               - The increase and change in the exchange rate. In all developed countries, promotional rates are used for 
+
+ <li>Currency risk               - The increase and change in the exchange rate. In all developed countries, promotional rates are used for 
                               overflight services provided to national companies, for this reason the involvement of the Ministry of 
                               Transport is required         
-Optimizing SkyTeam benefits - Associating or expanding the cooperation network with partners can bring more financial benefits
+
+ <li>Optimizing SkyTeam benefits - Associating or expanding the cooperation network with partners can bring more financial benefits
 
 <h5> Product risks: </h5>
 
