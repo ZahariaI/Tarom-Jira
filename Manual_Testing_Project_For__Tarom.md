@@ -84,7 +84,7 @@ positive testing, and negative testing. Additionally, we will conduct non-functi
 
 <h5> Product risks: </h5>
 
-tehnical failures, currency risk, climate
+ <li>  Common IT platform  - Using an old technology, not using new programs that can reduce expenses and simplify things
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
