@@ -92,23 +92,17 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control<h3>
 
-The reason why the monitoring and control was done, was to verify the usefulness of the site and it's credibility.
-We performed usability tests, positive tests, negative tests, interface tests,non-functional testing. 
+ In this phase, the project is on schedule, the resources were sufficient, the deadline was met
+ 
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__search-test-executions-project-level
 
 
-The following test conditions were found: <br>
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/7f8c9a93-bf15-4b06-9726-af77775ced09)
-![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8e848e0f-3ae2-4883-b682-b55058797399)
 
-
-
-
-
-<h3> 1.4 Test Design</h3>
+<h3> 1.3 Test Design</h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here
+
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__test-cases
 
 <h3>1.5 Test Implementation</h3>
@@ -135,9 +129,12 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
+
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 
 Test execution chart was generated and can be found below. 
+
+
 ![image](https://github.com/ZahariaI/Tarom-Jira/assets/166908547/8fdce5ae-1311-4d4e-9963-c2c016e02598)
 
 
