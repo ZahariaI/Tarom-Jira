@@ -39,7 +39,7 @@ The test plan that was created for this project can be found here
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-    <li>Business requirements are available and agreed, completed by the analyst 
+    <li> Business requirements are available and agreed, completed by the analyst 
 
     <li>Roles and responsibilities established and agreed 
 
