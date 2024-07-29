@@ -121,14 +121,20 @@ https://itfclasses.atlassian.net/jira/software/c/projects/IZT/issues/IZT-47?jql=
 
 
 The following is a summary of the bugs that have been found
-(image-11.png)
+
+![image](https://github.com/user-attachments/assets/5663a884-9250-4e6e-8635-ee1b87e5f1a9)
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 1.7 Test Completion
+
+
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
+
+Following the generation of the traceability matrix, it can be seen that out of the total of 8 stories and 14 tests, in the IZT-41 story, in the IZT-42 test, we discovered 3 bugs.
 
 https://itfclasses.atlassian.net/projects/IZT?selectedItem=com.thed.zephyr.je__traceability-project-level
 
