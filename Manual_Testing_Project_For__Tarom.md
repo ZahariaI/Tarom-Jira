@@ -24,10 +24,10 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 The test plan that was created for this project can be found here
- (https://onedrive.live.com/edit?id=EDAC4614722B6514!1448&resid=EDAC4614722B6514!1448&ithint=file%2cdocx&ct=1717437297526&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=850a4a34-d094-424c-a623-f8b578586976&wdo=2&cid=edac4614722b6514)
- 
 
-(https://onedrive.live.com/edit?id=EDAC4614722B6514!1448&resid=EDAC4614722B6514!1448&ithint=file%2cdocx&ct=1717437297526&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=850a4a34-d094-424c-a623-f8b578586976&wdo=2&cid=edac4614722b6514)
+ https://onedrive.live.com/edit?id=EDAC4614722B6514!1448&resid=EDAC4614722B6514!1448&ithint=file%2Cdocx&ct=1717437297526&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=850a4a34-d094-424c-a623-f8b578586976&wdo=2&cid=edac4614722b6514
+
+
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 <ul>
