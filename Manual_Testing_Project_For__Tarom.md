@@ -30,7 +30,6 @@ The test plan that was created for this project can be found here
  https://onedrive.live.com/edit?id=EDAC4614722B6514!1448&resid=EDAC4614722B6514!1448&ithint=file%2Cdocx&ct=1717437297526&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=850a4a34-d094-424c-a623-f8b578586976&wdo=2&cid=edac4614722b6514
 
 
-
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 <ul>
   <li>Ionescu Elena - Team lead</li> 
@@ -46,19 +45,19 @@ The test plan that was created for this project can be found here
      <li>Projects risks identified and mitigated</li> 
      <li>Deadlines established</li> 
      <li>Objectives of testing established</li> 
-    </li>Communicated within the team</li> 
+     <li>Communicated within the team</li> 
 <ul>
 
  <h4> 1.1.3 Exit criteria defined </h4>
 <ul>
-     </li> Minimum 95% of all tests passed</li> 				
-     </li> No critical defects opened</li> 								
-     </li>The objectives have been accomplished</li> 					
-     </li>The deadline has been reached</li> 							
-     </li>The budget has been reached</li> 						
-     </li>Test report summary</li>  										
-     </li>All defects have been documented and communicated to stakeholders</li> 	
-     </li>Test updates passed 100%</li>  
+     <li> Minimum 95% of all tests passed</li> 				
+     <li> No critical defects opened</li> 								
+     <li>The objectives have been accomplished</li> 					
+     <li>The deadline has been reached</li> 							
+     <li>The budget has been reached</li> 						
+     <li>Test report summary</li>  										
+     <li>All defects have been documented and communicated to stakeholders</li> 	
+     <li>Test updates passed 100%</li>  
 <ul>
 
 <h4> 1.1.4 Test scope</h4>
