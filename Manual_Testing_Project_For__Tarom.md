@@ -48,7 +48,7 @@ The test plan that was created for this project can be found here
   <li>Communicated within the team</li> 
 <ul>
 
- <h4> 1.1.3 Exit criteria defined </h4>
+<h4> 1.1.3 Exit criteria defined </h4>
  <ul>
   <li> Minimum 95% of all tests passed</li> 				
   <li> No critical defects opened</li> 								
@@ -60,9 +60,9 @@ The test plan that was created for this project can be found here
   <li>Test updates passed 100%</li>  
 <ul>
 
- <h4> 1.1.4 Test scope</h4>
+<h4> 1.1.4 Test scope</h4>
 
- <h5> Tests in scope: </h5>
+<h5> Tests in scope: </h5>
 
  Positive testing, and negative testing. Additionally, we will conduct non-functional testing, such as usability testing, performance testing (stress, load, volume, and spike), retest and regression testing. 
 
@@ -73,6 +73,7 @@ The test plan that was created for this project can be found here
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
+
  <li>Reputation of the company   - Due to the strikes and non-compliance with flight times faced by the Tarom company, passenger confidence 
                               has dropped considerably and is affecting the sale of tickets;
 
